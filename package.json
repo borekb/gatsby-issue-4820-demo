@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-issue-4820-demo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "build-no-uglify": "gatsby build --no-uglify",
+    "build-no-uglify-2": "gatsby build --noUglify",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.247",
+    "gatsby-link": "^1.6.40"
+  }
+}
